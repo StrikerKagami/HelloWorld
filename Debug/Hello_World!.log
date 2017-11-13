@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Hello_World!.cpp
+c:\users\nekag\onedrive\documents\visual studio 2015\projects\hello_world!\hello_world!\hello_world!.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Hello_World!.vcxproj -> C:\Users\Nekag\OneDrive\Documents\Visual Studio 2015\Projects\Hello_World!\Debug\Hello_World!.exe
+  Hello_World!.vcxproj -> C:\Users\Nekag\OneDrive\Documents\Visual Studio 2015\Projects\Hello_World!\Debug\Hello_World!.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  Hello_World!.cpp
+Hello_World!.cpp(61): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+c:\users\nekag\onedrive\documents\visual studio 2015\projects\hello_world!\hello_world!\hello_world!.cpp(253): warning C4715: 'Classstuff': not all control paths return a value
+  22 of 144 functions (15.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hello_World!.vcxproj -> C:\Users\Nekag\OneDrive\Documents\Visual Studio 2015\Projects\Hello_World!\Release\Hello_World!.exe
+  Hello_World!.vcxproj -> C:\Users\Nekag\OneDrive\Documents\Visual Studio 2015\Projects\Hello_World!\Release\Hello_World!.pdb (Full PDB)
